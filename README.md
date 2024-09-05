@@ -34,6 +34,4 @@ server-->>browser: [{content: "k", date: "2024-09-05T09:38:55.949Z"}, ...]
 deactivate server
 
 Note right of browser: broswer executes callback function which renders new note
-
-end
 ```
